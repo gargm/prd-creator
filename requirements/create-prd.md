@@ -3,7 +3,7 @@
 ## Objective
 Guide an AI asistant to create a detailed and comprehensive Product Requirements Document (PRD) [application short description]
 PRD should be clear and structured, outlining the application's purpose, target audience, features, technical requirements, and success metrics. A junior or a mid level developer should be able to use the PRD to build the application.
-The application should allow users to <track their mood and the AI generates affirmations>.
+The application should allow users to [slightly more detailed requirements in 2-3 sentences].
 
 ## Process
 
