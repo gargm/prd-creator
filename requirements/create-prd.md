@@ -1,9 +1,9 @@
 # Prompt to Generate a Product Requirements Document (PRD)
 
 ## Objective
-Guide an AI asistant to create a detailed and comprehensive Product Requirements Document (PRD) [application short description]
+Guide an AI asistant to create a detailed and comprehensive Product Requirements Document (PRD) [APPLICATION NAME]
 PRD should be clear and structured, outlining the application's purpose, target audience, features, technical requirements, and success metrics. A junior or a mid level developer should be able to use the PRD to build the application.
-The application should allow users to [slightly more detailed requirements in 2-3 sentences].
+The application should allow users to [REQUIREMENTS IN 2-3 SENTENCES].
 
 ## Process
 
@@ -51,18 +51,20 @@ The PRD should include the following sections:
 2. **Objective**: Define the primary purpose and goals of the application.
 3. **Target Audience**: Identify the key user groups who will benefit from the application.
 4. **Features**: List and describe the core features of the application, including:
+
+   [LIST SOME OF THE FEATURES HERE. REPLACE THE TEXT BELOW WITH YOUR REQUIREMENTS, WHICH IS PROVIDED AS AN EXAMPLE.
    - Mood Tracking: Allow users to log their daily mood using emojis with relevant expressions
-   - Affirmation Generation: AI-powered system to generate personalized positive affirmations based on user's mood
+   - Affirmation Generation: AI-powered system to generate personalized positive affirmations based on the user's mood
    - Customization: Let users customize their mood tracking experience (e.g., custom mood labels, themes)
    - Social Features: Optional sharing of mood status with trusted friends/family
 
 
 
-5. **Technical Requirements**: Specify the technologies, frameworks, and tools required to build the application.
-6. **Success Metrics**: Define measurable criteria to evaluate the application's success.
+6. **Technical Requirements**: Specify the technologies, frameworks, and tools required to build the application.
+7. **Success Metrics**: Define measurable criteria to evaluate the application's success.
 
 ## Input Details
-The PRD should incorporate the user inputs and there should be a section for types of inputs required:
+The PRD should incorporate the user inputs, and there should be a section for types of inputs required:
 
 
 ## Output Requirements
@@ -71,7 +73,7 @@ The generated PRD should:
 - Include detailed descriptions of features and functionalities.
 - Provide technical specifications for backend, frontend, and database design.
 - Highlight success metrics to measure user engagement and satisfaction.
-- Keep it jargon free so a junior developer can understand and implement it.
+- Keep it jargon-free so a junior developer can understand and implement it.
 - Remove any ambiguities or assumptions.
 
 ## Recommended tech stack
